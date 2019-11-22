@@ -1,0 +1,16 @@
+{
+    "separate_files": [
+        "app_pag01.js",
+        "app_pag02.js",
+        "app_pag03.js",
+        "app_pag04.js",
+        "app_pag05.js"
+    ],
+    "single_file": "app",
+    "single_pathFile": "js/",
+    "separate_pathFile": "js/doc_app/",
+    "version_control": true,
+    "version_root": "2.0",
+    "version": 0,
+    "debugger_js": false
+}
